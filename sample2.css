@@ -36,7 +36,7 @@ header .heading {
 
 .main-visual {
   width: 100%; /* 横幅いっぱい */
-  height: 300px; /* 高さ300px */
+  height: 400px; /* 高さ300px */
   background-image: url(img/mv.jpg);
   background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
   background-position: center; /* 背景画像を中央に配置 */
@@ -98,7 +98,7 @@ main {
   padding: 25px 0 0 30px;
 }
 
-.blog-text-heading{
+.blog-text-heading {
   padding-bottom: 15px;
 }
 
@@ -118,6 +118,11 @@ main {
 
 .sidebar {
   width: 230px;
+}
+
+.sidebar2 {
+  width: 500px;
+  color: #fff;
 }
 
 footer {
